@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/icons/ico.png</file>
+        <file>mfc.ico</file>
+        <file>res/shadow.png</file>
+        <file>res/transparent.png</file>
+        <file>res/title/close.png</file>
+        <file>res/title/max.png</file>
+        <file>res/title/min.png</file>
+        <file>res/title/restore.png</file>
+        <file>res/title/title.css</file>
+        <file>res/Action_Open.png</file>
+        <file>res/Action_Save.png</file>
+        <file>res/Action_ResetPassword.png</file>
+    </qresource>
+</RCC>
